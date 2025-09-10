@@ -1,0 +1,18 @@
+/* Similar movies (ul) */
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Each card (li) */
+.card {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 10px;
+  width: 140px;     /* drop this if you want auto sizing */
+  text-align: center;
+}

@@ -1,0 +1,6 @@
+.results {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem; /* optional: adds space between cards */
+  justify-content: flex-start; /* or center, as you prefer */
+}

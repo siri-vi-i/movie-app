@@ -1,0 +1,7 @@
+{
+    "/api": {
+        "target": "https://sample-nodejs-movies-cities.vercel.app",
+        "secure": true,
+        "changeOrigin": true
+    }
+}
