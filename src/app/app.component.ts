@@ -18,6 +18,5 @@ import { MovieComponent } from './movie/movie.component';
 })
 export class AppComponent {
   title = 'movie-app';
- 
 
 }
